@@ -1,0 +1,228 @@
+>> ls
+CNN  data  test_example_CNN.m  test_example_CNN.m~  util
+
+>> test_example_CNN
+Training the CNN...
+epoch 1/1
+Elapsed time is 437.786874 seconds.
+...Done. Training took 437.80 seconds
+Evaluating test set...
+Accuracy: 88.87%
+>> test_example_CNN
+Training the CNN...
+epoch 1/100
+Elapsed time is 511.395685 seconds.
+epoch 2/100
+Elapsed time is 517.631668 seconds.
+epoch 3/100
+Elapsed time is 514.663770 seconds.
+epoch 4/100
+Elapsed time is 477.646230 seconds.
+epoch 5/100
+Elapsed time is 464.988110 seconds.
+epoch 6/100
+Elapsed time is 487.501537 seconds.
+epoch 7/100
+Elapsed time is 472.105785 seconds.
+epoch 8/100
+Elapsed time is 469.729602 seconds.
+epoch 9/100
+Elapsed time is 447.402114 seconds.
+epoch 10/100
+Elapsed time is 465.130659 seconds.
+epoch 11/100
+Elapsed time is 477.190200 seconds.
+epoch 12/100
+Elapsed time is 462.149473 seconds.
+epoch 13/100
+Elapsed time is 499.441536 seconds.
+epoch 14/100
+Elapsed time is 497.427995 seconds.
+epoch 15/100
+Elapsed time is 487.026801 seconds.
+epoch 16/100
+Elapsed time is 483.000454 seconds.
+epoch 17/100
+Elapsed time is 478.836584 seconds.
+epoch 18/100
+Elapsed time is 494.794927 seconds.
+epoch 19/100
+Elapsed time is 487.784082 seconds.
+epoch 20/100
+Elapsed time is 899.489488 seconds.
+epoch 21/100
+Elapsed time is 725.788301 seconds.
+epoch 22/100
+Elapsed time is 472.933553 seconds.
+epoch 23/100
+Elapsed time is 484.406956 seconds.
+epoch 24/100
+Elapsed time is 520.324522 seconds.
+epoch 25/100
+Elapsed time is 478.463414 seconds.
+epoch 26/100
+Elapsed time is 507.614993 seconds.
+epoch 27/100
+Elapsed time is 491.273938 seconds.
+epoch 28/100
+Elapsed time is 459.785043 seconds.
+epoch 29/100
+Elapsed time is 488.447119 seconds.
+epoch 30/100
+Elapsed time is 450.439552 seconds.
+epoch 31/100
+Elapsed time is 478.546962 seconds.
+epoch 32/100
+Elapsed time is 483.823682 seconds.
+epoch 33/100
+Elapsed time is 477.094023 seconds.
+epoch 34/100
+Elapsed time is 496.073501 seconds.
+epoch 35/100
+Elapsed time is 491.814256 seconds.
+epoch 36/100
+Elapsed time is 470.168794 seconds.
+epoch 37/100
+Elapsed time is 484.886689 seconds.
+epoch 38/100
+Elapsed time is 491.857682 seconds.
+epoch 39/100
+Elapsed time is 443.698845 seconds.
+epoch 40/100
+Elapsed time is 452.309862 seconds.
+epoch 41/100
+Elapsed time is 486.357454 seconds.
+epoch 42/100
+Elapsed time is 470.845537 seconds.
+epoch 43/100
+Elapsed time is 495.988156 seconds.
+epoch 44/100
+Elapsed time is 488.183685 seconds.
+epoch 45/100
+Elapsed time is 480.385528 seconds.
+epoch 46/100
+Elapsed time is 526.935108 seconds.
+epoch 47/100
+Elapsed time is 727.023091 seconds.
+epoch 48/100
+Elapsed time is 727.997959 seconds.
+epoch 49/100
+Elapsed time is 730.503389 seconds.
+epoch 50/100
+Elapsed time is 580.014289 seconds.
+epoch 51/100
+Elapsed time is 463.761871 seconds.
+epoch 52/100
+Elapsed time is 471.158882 seconds.
+epoch 53/100
+Elapsed time is 440.999270 seconds.
+epoch 54/100
+Elapsed time is 470.072848 seconds.
+epoch 55/100
+Elapsed time is 442.253641 seconds.
+epoch 56/100
+Elapsed time is 467.564048 seconds.
+epoch 57/100
+Elapsed time is 486.406762 seconds.
+epoch 58/100
+Elapsed time is 513.839310 seconds.
+epoch 59/100
+Elapsed time is 520.649077 seconds.
+epoch 60/100
+Elapsed time is 524.572621 seconds.
+epoch 61/100
+Elapsed time is 526.471879 seconds.
+epoch 62/100
+Elapsed time is 513.791018 seconds.
+epoch 63/100
+Elapsed time is 516.617694 seconds.
+epoch 64/100
+Elapsed time is 516.018204 seconds.
+epoch 65/100
+Elapsed time is 516.152355 seconds.
+epoch 66/100
+Elapsed time is 515.975999 seconds.
+epoch 67/100
+Elapsed time is 514.663586 seconds.
+epoch 68/100
+Elapsed time is 516.307046 seconds.
+epoch 69/100
+Elapsed time is 513.733947 seconds.
+epoch 70/100
+Elapsed time is 513.961755 seconds.
+epoch 71/100
+Elapsed time is 513.787251 seconds.
+epoch 72/100
+Elapsed time is 515.570886 seconds.
+epoch 73/100
+Elapsed time is 516.171614 seconds.
+epoch 74/100
+Elapsed time is 515.364412 seconds.
+epoch 75/100
+Elapsed time is 513.401174 seconds.
+epoch 76/100
+Elapsed time is 516.590856 seconds.
+epoch 77/100
+Elapsed time is 516.692611 seconds.
+epoch 78/100
+Elapsed time is 516.169570 seconds.
+epoch 79/100
+Elapsed time is 516.891879 seconds.
+epoch 80/100
+Elapsed time is 515.524461 seconds.
+epoch 81/100
+Elapsed time is 516.835987 seconds.
+epoch 82/100
+Elapsed time is 514.046147 seconds.
+epoch 83/100
+Elapsed time is 513.830206 seconds.
+epoch 84/100
+Elapsed time is 515.965156 seconds.
+epoch 85/100
+Elapsed time is 514.159610 seconds.
+epoch 86/100
+Elapsed time is 496.115636 seconds.
+epoch 87/100
+Elapsed time is 552.389575 seconds.
+epoch 88/100
+Elapsed time is 608.900015 seconds.
+epoch 89/100
+Elapsed time is 506.915831 seconds.
+epoch 90/100
+Elapsed time is 502.069460 seconds.
+epoch 91/100
+Elapsed time is 5333.131927 seconds.
+epoch 92/100
+Elapsed time is 517.746606 seconds.
+epoch 93/100
+Elapsed time is 432.451977 seconds.
+epoch 94/100
+Elapsed time is 385.019895 seconds.
+epoch 95/100
+Elapsed time is 417.017982 seconds.
+epoch 96/100
+Elapsed time is 521.766725 seconds.
+epoch 97/100
+Elapsed time is 517.070595 seconds.
+epoch 98/100
+Elapsed time is 515.315547 seconds.
+epoch 99/100
+Elapsed time is 516.923612 seconds.
+epoch 100/100
+Elapsed time is 515.865445 seconds.
+...Done. Training took 55694.18 seconds
+Evaluating test set...
+Accuracy: 98.92%
+>> whos
+  Name            Size                      Bytes  Class     Attributes
+
+  bad             1x108                       864  double              
+  cnn             1x1                     5749114  struct              
+  er              1x1                           8  double              
+  numRight        1x1                           8  double              
+  opts            1x1                         396  struct              
+  startTime       1x1                           8  uint64              
+  test_x         28x28x10000             62720000  double              
+  test_y         10x10000                  800000  double              
+  train_x        28x28x60000            376320000  double              
+  train_y        10x60000                 4800000  double  
